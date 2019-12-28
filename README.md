@@ -1,1 +1,1 @@
-# eshop-js2.github.io
+# GeekBrains JavaScript LV2
